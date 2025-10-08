@@ -1,0 +1,23 @@
+{
+  "name": "final-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xhoneylemonx/6704101363_Panupong_Wiangha.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/xhoneylemonx/6704101363_Panupong_Wiangha/issues"
+  },
+  "homepage": "https://github.com/xhoneylemonx/6704101363_Panupong_Wiangha#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.0",
+    "@types/node": "^24.7.0"
+  }
+}
